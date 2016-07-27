@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b0d8814c-4d9c-4d15-a030-45e850cd27ea" name="localhost" url="http://localhost:8080">
+        <fileTransfer port="0" mountedRoot="C:\wamp64\www\laravel" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
